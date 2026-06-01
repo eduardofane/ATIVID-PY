@@ -44,7 +44,7 @@ Cada bimestre é composto por três notas:
 
 | Status | Critério |
 |--------|----------|
-| ✅ Aprovado | Soma anual ≥ 25 pontos |
+| ✅ Aprovado | Soma anual ≥ 24 pontos |
 | ⚠️ Recuperação | Média bimestral ≥ 6,0 |
 | ❌ Reprovado por Nota | Nenhum critério de aprovação atingido |
 | ❌ Reprovado por Faltas | Percentual de faltas > 60% |
